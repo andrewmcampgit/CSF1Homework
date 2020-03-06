@@ -14,7 +14,7 @@ namespace Variables.cs
 
             string[] fruitArray = { "apple", "kiwi", "bananna", "orange", "grapes" };
 
-            char periodCounter = '.';
+            int periodCounter = 0;
 
             for (int i = 0; i < fruitArray.Length; i++)
             {
