@@ -6,22 +6,19 @@ using System.Threading.Tasks;
 
 namespace Variables.cs
 {
-    class FruitLoop1
+    class FruitLoops2
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Fruit Loops 2\n");
+
             string[] fruitArray = { "apple", "kiwi", "bananna", "orange", "grapes" };
 
-            int i = 0;
-            while (i < fruitArray.Length)
+            for (int i = 0; i < fruitArray.Length; i++)
             {
                 Console.WriteLine(fruitArray[i]);
-                i++;
             }
-            Console.ReadLine();
-            
-
         }
-
     }
 }

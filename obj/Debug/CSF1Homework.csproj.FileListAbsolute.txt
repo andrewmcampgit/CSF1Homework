@@ -1,3 +1,9 @@
 C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\Variables.cs\obj\Debug\CSF1Homework.csproj.CoreCompileInputs.cache
 C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\Variables.cs\obj\Debug\Variables.cs.exe
 C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\Variables.cs\obj\Debug\Variables.cs.pdb
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\CSF1Homework\obj\Debug\CSF1Homework.csproj.CoreCompileInputs.cache
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\CSF1Homework\obj\Debug\Variables.cs.exe
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\CSF1Homework\obj\Debug\Variables.cs.pdb
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\CSF1Homework\bin\Debug\Variables.cs.exe.config
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\CSF1Homework\bin\Debug\Variables.cs.exe
+C:\Users\andrew.camp\Documents\Visual Studio 2017\Projects\01_CSF1\CSF1Homework\CSF1Homework\bin\Debug\Variables.cs.pdb
